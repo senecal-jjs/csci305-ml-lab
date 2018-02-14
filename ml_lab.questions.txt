@@ -1,17 +1,19 @@
-<firstname> <lastname>
+Jacob Senecal
 CSCI 305
 Spring 2018
 Lab Questions
 =======================
-1.
+1. I get the output: val it = [4,2,5,2,6,10] : int list
 
-2.
+2. The function "f" adds 1 to each element of the input list.
 
-3.
+3. In line (* a *), the function uses the empty list as a pattern, returning an empty list if
+   the empty list input pattern is matched.
 
-4.
+4. In line (* b *), (x::xs) matches any non-empty list. 1 is then added to the head of the list,
+   and the function is recursively called on the tail of the list, until an empty list is encountered.
 
-5.
+5. 
 
 6.
 
